@@ -124,6 +124,12 @@ h2{
   border-top: 1px solid #900000;
 }
 
+.apa-reference{
+  text-indent: -1em;
+  padding-left: 1em;
+  line-height: 2;
+}
+
 .footer-columns {
   display: flex;
   justify-content: space-between;
